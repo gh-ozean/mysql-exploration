@@ -5,7 +5,7 @@ The MySQL `classicmodels` sample database is a retailer of scale models of class
 - Download the MySQL `classicmodels` sample database.
     - [From the `mysqltutorial.org` website.](https://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampledatabase.zip)
     - [From this repository.](../../assets/databases/mysqlsampledatabase.sql)
-- Load the MySQL `classicmodels` sample database into MySQL Server.
+- [Load the MySQL `classicmodels` sample database into MySQL Server.](load_msql_sample_database.md)
 
 ## MySQL Sample Database Schema
 - The MySQL `classicmodels` sample database schema consists of the following tables:
