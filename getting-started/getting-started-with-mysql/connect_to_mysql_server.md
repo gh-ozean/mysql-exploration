@@ -37,7 +37,7 @@ mysql> show databases;
 <details>
   <summary>MySQL Workbench</summary>
 
-  ![](../../assets/mysql_workbench.png "MySQL Workbench")
+  ![](../../assets/images/mysql_workbench.png "MySQL Workbench")
 </details>
 
 ## References

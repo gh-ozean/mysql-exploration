@@ -6,3 +6,5 @@ Getting started with MySQL quickly.
 ## [Install MySQL](install_mysql.md)
 
 ## [Connect To MySQL Server](connect_to_mysql_server.md)
+
+## [Download MySQL Sample Database](download_mysql_sample_database.md)
